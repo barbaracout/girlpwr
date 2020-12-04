@@ -1,0 +1,43 @@
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic; 
+    font-size: 40px;
+    text-align: left;
+    color: white;
+    background-color: #55ACEE;
+    padding: 200px 40px 0.5px 30px; 
+    width: 500px;
+    height: 80px;
+}
+
+.background {
+    background-color: #55ACEE;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grey {
+    background-color: #F2F2F2;
+    padding: 0.5px 40px 200px 30px;
+}
+
+.text {
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 20px;
+    text-align: left;
+    width: 1100px; 
+    color: #1C1C1C;
+    padding: 0px 0px 20px 0px;	
+}
+
+.button {
+    width: 300px;
+    height: 45px;
+    color: white;
+    background-color: #55ACEE;
+    border-radius: 10px;
+    border: 1px #55ACEE;
+    box-shadow: 0px 3px 3px 0px #A9A9A9;
+    font-size: 18px;
+    font-weight: bold;
+}
